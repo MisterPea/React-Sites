@@ -13,6 +13,10 @@ List of sites using ReactJS
   * Router
 * [Amazon Live, Prime Video, Find a Gift](https://www.amazon.com/)
   * Redux
+* [NBC News](https://www.nbcnews.com/)
+  Helmet, Router, Redux and Google (AMP) Accelerated Mobile Pages
+* [Reddit](https://www.reddit.com/)
+  * Router
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
 * [LeetCode](https://www.leetcode.com/)
 
