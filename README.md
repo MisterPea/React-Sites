@@ -9,3 +9,10 @@ List of sites using ReactJS
   * Helmet and Router
 * [Facebook](https://www.facebook.com/)
   * Composer and Relay (GraphQL)
+* [WalMart](https://www.walmart.com)
+  * Router
+* [Amazon Live, Prime Video, Find a Gift](https://www.amazon.com/)
+  * Redux
+* [Apple Developer Documentation](https://developer.apple.com/documentation/)
+* [LeetCode](https://www.leetcode.com/)
+
