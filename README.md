@@ -36,6 +36,8 @@
   * Redux
 * [Indeed](https://indeed.com)
   * PureComponent
+* [Observable](https://observablehq.com/)
+  * Router
 * [abc tv](https://abc.com)
 * [Alibaba](https://alibaba.com)
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
