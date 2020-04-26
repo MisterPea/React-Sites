@@ -6,6 +6,8 @@
   * Router
 * [The New York Times](https://www.nytimes.com/)
   * Helmet and Router
+* [CNN](https://www.cnn.com/)
+  * Helmet
 * [Facebook](https://www.facebook.com/)
   * Composer and Relay (GraphQL)
 * [WalMart](https://www.walmart.com)
