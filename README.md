@@ -56,6 +56,7 @@
 
 ## Links to Modules/Libraries:
 
+* [Leafy Green UI](https://github.com/mongodb/leafygreen-ui)
 * [React Redux](https://react-redux.js.org)
 * [Redux-Saga](https://redux-saga.js.org)
 * [React Router](https://reacttraining.com/react-router/)
