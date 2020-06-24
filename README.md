@@ -26,6 +26,7 @@
   * Helmet and Router
 * [MongoDB](https://mongodb.com)
   * Router and Leafy Green UI
+* [NASDAQ](https://nasdaq.com)
 * [NBC News](https://www.nbcnews.com/)
   * Helmet, Router, Redux and Google (AMP) Accelerated Mobile Pages
 * [The New York Times](https://www.nytimes.com/)
