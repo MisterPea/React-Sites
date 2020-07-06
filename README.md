@@ -15,6 +15,7 @@
   * Redux
 * [Facebook](https://www.facebook.com/)
   * Composer and Relay (GraphQL)
+* [Figma](https://www.figma.com)
 * [Indeed](https://indeed.com)
   * PureComponent
 * [Jet](http://jet.com)
