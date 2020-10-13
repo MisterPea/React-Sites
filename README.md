@@ -51,6 +51,7 @@
   * Router
 * [WalMart](https://www.walmart.com)
   * Router
+* [The Weather Channel](https://weather.com)
 * [Wired](https://wired.com)
   * Redux and Object QL
 
