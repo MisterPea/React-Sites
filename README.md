@@ -4,6 +4,8 @@
 * [Amazon Live, Prime Video, Find a Gift](https://www.amazon.com/)
   * Redux
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
+* [Auth0](https://auth0.com)
+  * Styled Components
 * [Bed Bath & Beyond](https://www.bedbathandbeyond.com/)
   * Redux and Router
 * [Bleecher Report](https://bleacherreport.com/)
@@ -70,5 +72,6 @@
 * [GraphQL](https://graphql.org)
 * [Apollo](https://www.apollographql.com/docs/react/)
 * [ObjectQL](https://www.npmjs.com/package/objectql)
+* [Styled Components](https://styled-components.com)
 
 
