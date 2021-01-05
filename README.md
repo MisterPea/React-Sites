@@ -14,6 +14,8 @@
   * Redux
 * [CNN](https://www.cnn.com/)
   * Helmet
+* [Daily Beast](https://www.thedailybeast.com)
+  * Apollo
 * [EdX](http://edx.org)
   * Redux
 * [Facebook](https://www.facebook.com/)
