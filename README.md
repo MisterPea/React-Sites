@@ -21,6 +21,8 @@
 * [Facebook](https://www.facebook.com/)
   * Composer and Relay (GraphQL)
 * [Figma](https://www.figma.com)
+* [Forward](https://goforward.com/)
+  * Router and Styled Components
 * [Indeed](https://indeed.com)
   * PureComponent
 * [Jet](http://jet.com)
