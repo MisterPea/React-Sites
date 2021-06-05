@@ -75,7 +75,7 @@
 * [React Router](https://reacttraining.com/react-router/)
 * [React Helmet](https://github.com/nfl/react-helmet)
 * [React Composer](https://www.npmjs.com/package/react-composer)
-* [Relay QL](https://relay.dev/en/)
+* [Relay QL](https://relay.dev)
 * [GraphQL](https://graphql.org)
 * [Apollo](https://www.apollographql.com/docs/react/)
 * [ObjectQL](https://www.npmjs.com/package/objectql)
