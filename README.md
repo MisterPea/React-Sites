@@ -5,6 +5,10 @@
 * [Amazon Live, Prime Video, Find a Gift](https://www.amazon.com/)
   * Redux
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
+* [The Atlantic](https://www.theatlantic.com/)
+  * GraphQL
+  * Helmet
+  * Next.js
 * [Auth0](https://auth0.com)
   * Styled Components
 * [Bed Bath & Beyond](https://www.bedbathandbeyond.com/)
@@ -69,16 +73,15 @@
 
 ## Links to Modules/Libraries:
 
-* [Leafy Green UI](https://github.com/mongodb/leafygreen-ui)
-* [React Redux](https://react-redux.js.org)
-* [Redux-Saga](https://redux-saga.js.org)
-* [React Router](https://reacttraining.com/react-router/)
-* [React Helmet](https://github.com/nfl/react-helmet)
-* [React Composer](https://www.npmjs.com/package/react-composer)
-* [Relay QL](https://relay.dev)
-* [GraphQL](https://graphql.org)
 * [Apollo](https://www.apollographql.com/docs/react/)
+* [GraphQL](https://graphql.org)
+* [Leafy Green UI](https://github.com/mongodb/leafygreen-ui)
+* [Next.js](https://nextjs.org)
 * [ObjectQL](https://www.npmjs.com/package/objectql)
+* [React Composer](https://www.npmjs.com/package/react-composer)
+* [React Helmet](https://github.com/nfl/react-helmet)
+* [React Redux](https://react-redux.js.org)
+* [React Router](https://reacttraining.com/react-router/)
+* [Redux-Saga](https://redux-saga.js.org)
+* [Relay QL](https://relay.dev)
 * [Styled Components](https://styled-components.com)
-
-
