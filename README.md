@@ -67,6 +67,8 @@
   * Redux 
 * [Wired](https://wired.com)
   * Redux and Object QL
+* [Zara](https://www.zara.com)
+  * Redux
 
 
 -----
