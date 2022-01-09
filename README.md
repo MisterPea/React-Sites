@@ -27,10 +27,10 @@
 * [Figma](https://www.figma.com)
 * [Forward](https://goforward.com/)
   * Router and Styled Components
+* [Hinge](https://hinge.co/)
+  * Next.js
 * [Indeed](https://indeed.com)
   * PureComponent
-* [Jet](http://jet.com)
-  * Redux and Redux Saga
 * [LeetCode](https://www.leetcode.com/)
 * [McKinsey & Company](https://www.mckinsey.com/)
   * Router
