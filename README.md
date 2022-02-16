@@ -27,6 +27,8 @@
 * [Figma](https://www.figma.com)
 * [Forward](https://goforward.com/)
   * Router and Styled Components
+* [FWA - Award](https://thefwa.com/)
+  * Router
 * [Hinge](https://hinge.co/)
   * Next.js
 * [Indeed](https://indeed.com)
