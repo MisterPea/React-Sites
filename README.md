@@ -29,6 +29,8 @@
   * Router and Styled Components
 * [FWA - Award](https://thefwa.com/)
   * Router
+  * Redux
+  * Helmet
 * [Hinge](https://hinge.co/)
   * Next.js
 * [Indeed](https://indeed.com)
